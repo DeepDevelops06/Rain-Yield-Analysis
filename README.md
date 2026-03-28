@@ -1,4 +1,4 @@
-#  Crop Yield Predictor: Making Agriculture Data-Driven
+#  Rain Yield Analysis : Making Agriculture Data-Driven
 
 ### *A Simple Linear Regression approach to predicting harvest based on rainfall.*
 
@@ -37,19 +37,15 @@ y = mx + c
 
 
 ## How to Run It
-1.  **Clone the Repo:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/Crop-Yield-Predictor.git](https://github.com/YOUR_USERNAME/Crop-Yield-Predictor.git)
-    ```
-2.  **Install Dependencies:**
+1.  **Install Dependencies:**
     ```bash
     pip install pandas matplotlib scikit-learn
     ```
-3.  **Launch the Predictor:**
+2.  **Launch the Predictor:**
     ```bash
     python predictor.py
     ```
-4.  **Get a Prediction:** Enter any rainfall value (e.g., `750`) when prompted to see the estimated yield!
+3.  **Get a Prediction:** Enter any rainfall value (e.g., `750`) when prompted to see the estimated yield!
 
 
 ## What I Learned
